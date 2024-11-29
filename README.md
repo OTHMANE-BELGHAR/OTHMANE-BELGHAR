@@ -10,15 +10,13 @@
 
 - 📫 How to reach me **otmanebelgharbrbrb@gmail.com**
 
-- 📄 I'm a versatile Full Stack Developer with expertise in HTML, CSS, and JavaScript, alongside modern frameworks like React for front-end and Node.js for back-end development. I've also dabbled in Java and C#, 
-    and I'm always eager to expand my toolkit. I thrive on tackling new challenges, learning quickly, and adapting with ease. In addition to development, I'm also a creative web designer and a skilled 
-    scriptwriter, blending technical expertise with artistic flair. Oh,and I'm well-versed in Figma, turning ideas into sleek and engagingdesigns!
+- 📄 I'm a versatile Full Stack Developer with expertise in HTML, CSS, and JavaScript, alongside modern frameworks like React for front-end and Node.js for back-end development. I've also     dabbled in Java and C#, and I'm always eager to expand my toolkit. I thrive on tackling new challenges, learning quickly, and adapting with ease. In addition to development, I'm also a      creative web designer and a skilled scriptwriter, blending technical expertise with artistic flair. Oh, and I'm well-versed in Figma, turning ideas into sleek and engaging designs!
 
 - ⚡ Fun fact **I specialize in crafting visually appealing and user-friendly websites, ensuring a professional and efficient design process**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/othmane. belghar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="othmane. belghar" height="30" width="40" /></a>
+<a href="hhttps://www.linkedin.com/in/othmane-belghar-95150529a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="othmane. belghar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,5 +27,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=othmane-belghar&show_icons=true&locale=en" alt="othmane-belghar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=othmane-belghar&" alt="othmane-belghar" /></p>
+
+
+
+
+
+
+
+
+
+
 
 
